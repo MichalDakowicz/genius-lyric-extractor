@@ -17,7 +17,7 @@ If you ever needed to extract lyrics from a Genius song website, you know the pa
 **Usage Example:**
 
 ```
-Enter the URL of Genious song website: https://genius.com/Eminem-houdini-lyrics
+Enter the URL of Genius song website: https://genius.com/Eminem-houdini-lyrics
 ```
 
 The script will then scrape the lyrics from the given URL and save them to the `lyrics.txt` file.

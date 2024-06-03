@@ -5,7 +5,7 @@ with open("lyrics.txt", "w", encoding='utf-8') as file:
     file.write("")  # Clear the file
 
 # Send a GET request to the website you want to scrape
-url = input("Enter the URL of Genious song website: ")
+url = input("Enter the URL of Genius song website: ")
 
 response = requests.get(url)
 
