@@ -17,13 +17,7 @@ If you ever needed to extract lyrics from a Genius song website, you know the pa
 **Usage Example:**
 
 ```
-Enter the URL of Genius song website: https://genius.com/Eminem-houdini-lyrics
+Enter the URL of Genius song website: https://genius.com/Kendrick-lamar-reincarnated-lyrics
 ```
 
 The script will then scrape the lyrics from the given URL and save them to the `lyrics.txt` file.
-
-**Notes:**
-
--   The script assumes that the Genius website uses the `data-lyrics-container` attribute to identify the lyrics container.
--   The script handles `UnicodeEncodeError` by printing an error message and skipping the line. You can adjust this error handling as needed.
--   This script is for educational purposes only. Please respect the copyright of the songwriters and artists.
